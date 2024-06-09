@@ -1,0 +1,72 @@
+[
+  {
+    "name": "base-mainnet",
+    "http": "https://mainnet.base.org",
+    "label": "Base"
+  },
+  {
+    "name": "degen-mainnet",
+    "http": "https://rpc.degen.tips",
+    "label": "Degen"
+  },
+  {
+    "name": "blast-mainnet",
+    "http": "https://rpc.blast.io",
+    "label": "Blast"
+  },
+  {
+    "name": "arbitrum-one-mainnet",
+    "http": "https://arb1.arbitrum.io/rpc",
+    "label": "ArbitrumOne"
+  },
+  {
+    "name": "optimism-mainnet",
+    "http": "https://optimism.gateway.tenderly.co",
+    "label": "Optimism"
+  },
+  {
+    "name": "proof-play-mainnet",
+    "http": "https://rpc.apex.proofofplay.com",
+    "label": "Proof of Play"
+  },
+  {
+    "name": "scroll-mainnet",
+    "http": "https://rpc.scroll.io",
+    "label": "Scroll"
+  },
+  {
+    "name": "linea-mainnet",
+    "http": "https://rpc.linea.build",
+    "label": "Linea"
+  },
+  {
+    "name": "metis-mainnet",
+    "http": "https://andromeda.metis.io",
+    "label": "Metis"
+  },
+  {
+    "name": "fraxtal-mainnet",
+    "http": "https://rpc.frax.com",
+    "label": "Fraxtal"
+  },
+  {
+    "name": "arbitrum-nova-mainnet",
+    "http": "https://nova.arbitrum.io/rpc",
+    "label": "Arbitrum Nova"
+  },
+  {
+    "name": "ham-mainnet",
+    "http": "https://rpc.ham.fun",
+    "label": "Ham"
+  },
+  {
+    "name": "sanko-mainnet",
+    "http": "https://mainnet.sanko.xyz",
+    "label": "Sanko"
+  },
+  {
+    "name": "redstone-mainnet",
+    "http": "https://rpc.redstonechain.com",
+    "label": "Redstone"
+  }
+]
