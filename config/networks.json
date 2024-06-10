@@ -68,5 +68,10 @@
     "name": "redstone-mainnet",
     "http": "https://rpc.redstonechain.com",
     "label": "Redstone"
+  },
+  {
+    "name": "zora-mainnet",
+    "http": "https://rpc.zora.energy/",
+    "label": "Zora"
   }
 ]
