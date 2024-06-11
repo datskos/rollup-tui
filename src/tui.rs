@@ -199,7 +199,7 @@ fn ui(f: &mut Frame, app: &mut App) {
         .split(outer_layout[0]);
 
     f.render_widget(
-        Block::default().borders(Borders::ALL).title("Built by the GhostGraph team"),
+        Block::default().borders(Borders::ALL).title("[Rollup.TUI] by the GhostGraph.xyz team"),
         outer_layout[0],
     );
 
@@ -274,6 +274,7 @@ fn render_table(f: &mut Frame, app: &mut App, area: Rect) {
             .enumerate()
             .map(|(i, content)| {
                 let alignment = if i > 0 { Alignment::Right } else { Alignment::Left };
+                let content = if content == "0.00" { "-".to_string() } else { content };
                 Cell::from(Text::from(format!("\n{}\n", content)).alignment(alignment))
             })
             .collect::<Row>()
