@@ -35,6 +35,11 @@
     "label": "Scroll"
   },
   {
+    "name": "zksync-era",
+    "http": "https://mainnet.era.zksync.io",
+    "label": "zkSync Era"
+  },
+  {
     "name": "linea-mainnet",
     "http": "https://rpc.linea.build",
     "label": "Linea"
