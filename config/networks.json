@@ -78,5 +78,10 @@
     "name": "zora-mainnet",
     "http": "https://rpc.zora.energy/",
     "label": "Zora"
+  },
+  {
+    "name": "weavevm-testnet",
+    "http": "https://testnet-rpc.wvm.dev",
+    "label": "WeaveVM"
   }
 ]
